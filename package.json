@@ -1,5 +1,5 @@
 {
-  "name": "express-response",
+  "name": "express-json-response",
   "version": "1.0.0",
   "description": "middleware for express http response",
   "main": "index.js",
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "response",
+    "json",
     "express",
     "middleware",
     "http"

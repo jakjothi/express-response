@@ -6,14 +6,14 @@ middleware for express http response
 ## Installation
 
 ```bash
-$ npm install express-response
+$ npm install express-json-response
 ```
 
 ## Quick Start
 
 ```javascript
 var express = require('express'),
-	expressResponse = require('express-response'),
+	expressResponse = require('express-json-response'),
     app;
     
 app = express();
